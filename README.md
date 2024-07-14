@@ -1,7 +1,2 @@
 OPEN: TRUE
-
-
-
-
-
 VERSION: 1337.7331
